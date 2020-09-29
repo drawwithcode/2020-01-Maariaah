@@ -3,7 +3,6 @@ function preload() {
 }
 function setup() {
   createCanvas(600, 600);
-  //stroke(0.4);
   noFill();
   background(0,0,0);
 }
